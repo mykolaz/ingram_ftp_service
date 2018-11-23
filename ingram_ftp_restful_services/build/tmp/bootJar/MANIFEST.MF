@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Start-Class: ingram_ftp_service.ingram_ftp_service
+Main-Class: org.springframework.boot.loader.JarLauncher
+
